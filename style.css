@@ -1,0 +1,39 @@
+body{
+    background-color: lightgray;
+    margin: 0;
+    padding: 0;
+}
+.Tituloprincipal{
+    background-color: white;
+    padding: 5px;    
+    text-align: center;
+}
+
+.container{
+    width: 600px;
+    margin: auto;
+}
+
+.main{
+    background-color: white;
+    border-radius: 15px;
+    margin-top: 5px;
+}
+.cabecera{
+    font-size: 14px;
+    padding: 10px;
+}
+.titulo{
+    float: left;
+}
+.date{
+    float: right;
+}
+img{
+    width: 600px;
+}
+
+.comentarios{
+    padding: 10px;
+    
+}
